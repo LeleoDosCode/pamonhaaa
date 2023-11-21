@@ -1,0 +1,11 @@
+{
+    "produtos": [
+        {
+            "img": "../../assets/ha.webp",
+            "nome": "Pamonha Cara",
+            "valor": 30,
+            "descricao": "Pamonha supervalorizada",
+            "id": 1
+        }
+    ]
+}
